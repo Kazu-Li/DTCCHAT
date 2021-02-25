@@ -1,0 +1,5 @@
+name: RPchatforDTC
+version: ${project.version}
+main: kazu_li.rpchatfordtc.main
+api-version: 1.16
+prefix: CHATDTC
