@@ -6,3 +6,5 @@ Project for a private server minecraft DTC
 [ x ] Command for RP
 
 [ x ] Config Manager
+
+[ x ] Placeholder API support 

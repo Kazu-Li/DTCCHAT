@@ -1,0 +1,3 @@
+# config main chat for dtc server
+
+chatformat: "%user_name%:  {message}"
