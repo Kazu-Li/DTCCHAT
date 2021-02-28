@@ -1,6 +1,10 @@
 package kazu_li.rpchatfordtc;
 
+
+
+
 import kazu_li.rpchatfordtc.command.CommandRP;
+import kazu_li.rpchatfordtc.config.ConfManager;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -8,6 +12,8 @@ import java.io.File;
 
 
 public final class main extends JavaPlugin {
+
+
 
     @Override
     public void onEnable() {
